@@ -1,21 +1,28 @@
 # Jorge Oleques
 
-**System Architect & Tech Lead** — Intelligent Platforms • Integration & Distributed Systems • Applied AI
+**System Architect & Tech Lead**  
+Intelligent Platforms • Integration & Distributed Systems • AI-enabled Systems
 
-Trabalho com arquitetura de sistemas distribuídos e integração entre plataformas, construindo produtos e plataformas escaláveis com foco em resiliência, observabilidade e clareza arquitetural.
+Arquiteto de sistemas com foco em integração entre plataformas e arquitetura de sistemas distribuídos. 
 
-Nos últimos anos, tenho incorporado **IA aplicada** (agentes, RAG e orquestração de workflows) como parte de arquiteturas maiores — para potencializar integrações, automações e tomada de decisão, sem depender de hype.
+Construo soluções escaláveis e resilientes com clareza arquitetural, evoluindo integrações tradicionais para plataformas inteligentes orientadas a contexto e automação.
+
+Tenho incorporado IA aplicada (agentes, RAG e orquestração de workflows) como componente arquitetural dentro de sistemas maiores — sempre com foco em fundamentos sólidos, governança e sustentabilidade técnica.
 
 ## Áreas de atuação
-- System Architecture & Platform Engineering
-- Integration Architecture (APIs, eventos, mensageria)
-- Distributed Systems (microservices, reliability, observability)
-- Applied AI (agents, RAG, workflow orchestration)
 
-## Repositórios em destaque
-- **proposta-arq** — propostas e decisões arquiteturais  
-- **software_solido** — princípios e práticas para engenharia sustentável  
-- **agent-skills-workflows** — modelagem de skills e workflows para agentes  
+- System Architecture
+- Platform Engineering
+- Integration Architecture
+- Distributed Systems
+- AI-enabled Systems
 
-## Onde me encontrar
+## Projetos em destaque
+
+- **proposta-arq** — Propostas e decisões arquiteturais  
+- **software_solido** — Princípios e fundamentos para engenharia sustentável  
+- **agent-skills-workflows** — Modelagem de skills e workflows para agentes  
+
+## Contato
+
 - LinkedIn: https://www.linkedin.com/in/jorge-oleques-2936b620/
