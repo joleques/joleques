@@ -16,7 +16,6 @@ Nos últimos anos, tenho incorporado **IA aplicada** (agentes, RAG e orquestraç
 - **proposta-arq** — propostas e decisões arquiteturais  
 - **software_solido** — princípios e práticas para engenharia sustentável  
 - **agent-skills-workflows** — modelagem de skills e workflows para agentes  
-- (opcional) um repo de integração/contratos/quality que represente bem sua base
 
 ## Onde me encontrar
 - LinkedIn: https://www.linkedin.com/in/jorge-oleques-2936b620/
