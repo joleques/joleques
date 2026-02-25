@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jorge Oleques
 
-<!--
-**joleques/joleques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**System Architect & Tech Lead** — Intelligent Platforms • Integration & Distributed Systems • Applied AI
 
-Here are some ideas to get you started:
+Trabalho com arquitetura de sistemas distribuídos e integração entre plataformas, construindo produtos e plataformas escaláveis com foco em resiliência, observabilidade e clareza arquitetural.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nos últimos anos, tenho incorporado **IA aplicada** (agentes, RAG e orquestração de workflows) como parte de arquiteturas maiores — para potencializar integrações, automações e tomada de decisão, sem depender de hype.
+
+## Áreas de atuação
+- System Architecture & Platform Engineering
+- Integration Architecture (APIs, eventos, mensageria)
+- Distributed Systems (microservices, reliability, observability)
+- Applied AI (agents, RAG, workflow orchestration)
+
+## Repositórios em destaque
+- **proposta-arq** — propostas e decisões arquiteturais  
+- **software_solido** — princípios e práticas para engenharia sustentável  
+- **agent-skills-workflows** — modelagem de skills e workflows para agentes  
+- (opcional) um repo de integração/contratos/quality que represente bem sua base
+
+## Onde me encontrar
+- LinkedIn: https://www.linkedin.com/in/jorge-oleques-2936b620/
